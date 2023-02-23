@@ -34,7 +34,18 @@ use the implementations provided here, please **also** cite this repository as
 
 ## Abstract
 
-TODO
+Nishikawa (2007) proposed to reformulate the classical Poisson equation as a
+steady state problem for a linear hyperbolic system. This results in optimal
+error estimates for both the solution of the elliptic equation and its gradient.
+However, it prevents the application of well-known solvers for elliptic
+problems. We show connections to a discontinuous Galerkin (DG) method analyzed
+by Cockburn, Guzmán, and Wang (2009) that is very difficult to implement in
+general. Next, we demonstrate how this method can be implemented efficiently
+using summation by parts (SBP) operators, in particular in the context of
+SBP DG methods such as DG spectral element method (DGSEM). The resulting scheme
+combines nice properties of both the hyperbolic and the elliptic point of view,
+in particular a high order of convergence of the gradients, which is one order
+higher than what one would usually expect from DG methods for elliptic problems.
 
 
 ## Numerical experiments
