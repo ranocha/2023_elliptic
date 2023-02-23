@@ -1,0 +1,13 @@
+{
+    "license": "MIT",
+    "title": "Reproducibility repository for A discontinuous Galerkin discretization of elliptic problems with improved convergence properties using summation by parts operators",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "Applied Mathematics, University of Hamburg, Germany",
+            "name": "Ranocha, Hendrik",
+            "orcid": "0000-0002-3456-2277"
+        }
+    ],
+    "access_right": "open"
+}
