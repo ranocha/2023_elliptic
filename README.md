@@ -55,10 +55,20 @@ to install [Julia](https://julialang.org/). The numerical experiments presented
 in this article were performed using Julia v1.8.3.
 
 First, you need to download this repository, e.g., by cloning it with `git`
-or by downloading an archive via the GitHub interface.
+or by downloading an archive via the GitHub interface. Then, you need to start
+Julia in this directory and execute the following commands in the Julia REPL.
 
-Then, you need to start Julia in the `code` directory and follow the
-instructions in the `README.md` file therein.
+```julia
+julia> include("code.jl")
+
+julia> convergence_tests_1d()
+
+julia> convergence_tests_2d()
+```
+
+This will show the results in the REPL. If you want to display LaTeX code for
+the convergence tables, add the keyword argument `latex = true` to the function
+calls shown above.
 
 
 ## Authors
