@@ -42,7 +42,7 @@ problems. We show connections to a discontinuous Galerkin (DG) method analyzed
 by Cockburn, Guzmán, and Wang (2009) that is very difficult to implement in
 general. Next, we demonstrate how this method can be implemented efficiently
 using summation by parts (SBP) operators, in particular in the context of
-SBP DG methods such as DG spectral element method (DGSEM). The resulting scheme
+SBP DG methods such as the DG spectral element method (DGSEM). The resulting scheme
 combines nice properties of both the hyperbolic and the elliptic point of view,
 in particular a high order of convergence of the gradients, which is one order
 higher than what one would usually expect from DG methods for elliptic problems.
