@@ -1,7 +1,7 @@
 # A discontinuous Galerkin discretization of elliptic problems with improved convergence properties using summation by parts operators
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/TODO.svg)](https://doi.org/TODO)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7672744.svg)](https://doi.org/10.5281/zenodo.7672744)
 
 This repository contains information and code to reproduce the results presented in the
 article
@@ -11,10 +11,10 @@ article
          improved convergence properties using summation by parts operators},
   author={Ranocha, Hendrik},
   year={2023},
-  month={TODO},
+  month={02},
   eprint={TODO},
   eprinttype={arxiv},
-  eprintclass={TODO}
+  eprintclass={math.NA}
 }
 ```
 
@@ -27,8 +27,8 @@ use the implementations provided here, please **also** cite this repository as
          improved convergence properties using summation by parts operators"},
   author={Ranocha, Hendrik},
   year={2023},
-  howpublished={\url{TODO}},
-  doi={TODO}
+  howpublished={\url{https://github.com/ranocha/2023_elliptic}},
+  doi={10.5281/zenodo.7672744}
 }
 ```
 
