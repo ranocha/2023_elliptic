@@ -12,9 +12,10 @@ article
   author={Ranocha, Hendrik},
   year={2023},
   month={02},
-  eprint={TODO},
+  eprint={2302.12488},
   eprinttype={arxiv},
-  eprintclass={math.NA}
+  eprintclass={math.NA},
+  doi={10.48550/arXiv.2302.12488}
 }
 ```
 
