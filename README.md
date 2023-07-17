@@ -6,16 +6,17 @@
 This repository contains information and code to reproduce the results presented in the
 article
 ```bibtex
-@online{ranocha2023discontinuous,
+@article{ranocha2023discontinuous,
   title={A discontinuous {G}alerkin discretization of elliptic problems with
          improved convergence properties using summation by parts operators},
   author={Ranocha, Hendrik},
+  journal={Journal of Computational Physics},
   year={2023},
-  month={02},
+  month={07},
+  doi={10.1016/j.jcp.2023.112367},
   eprint={2302.12488},
   eprinttype={arxiv},
-  eprintclass={math.NA},
-  doi={10.48550/arXiv.2302.12488}
+  eprintclass={math.NA}
 }
 ```
 
